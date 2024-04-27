@@ -2,7 +2,7 @@
  
 <p align="center">
  
-  <img alt="Backend First Lang" src="https://img.shields.io/badge/Second-Python-informational" />
+  <img alt="Backend First Lang" src="https://img.shields.io/badge/First-Python-informational" />
  
   <img alt="IaC" src="https://img.shields.io/badge/IaC-Terraform-blue" />
   
