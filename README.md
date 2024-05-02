@@ -10,9 +10,8 @@
 
 </p>
  
-I act as a preference in software enginneer cloud, mainly in the cultural environment devops. At the moment, I have loved developing projects with Terraform in conjunction with other cloud tools.
+I study mainly in the cultural environment devops. I have loved developing projects with Terraform in conjunction with other cloud tools.
  
-- :office: I'm DevOps Engineer
 - 🌱 I am currently learning Python, Terraform, AWS, Azure, along with DevOps culture tools
 - 📫 How to reach me: 
   See my LinkedIn: https://www.linkedin.com/in/williamalvescoelho/
