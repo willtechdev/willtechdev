@@ -23,8 +23,8 @@ Sou apaixonado por **DevOps** e gosto de entender como desenvolvimento, infraest
   <img src="https://skillicons.dev/icons?i=aws" width="33" height="33" />
   <img src="https://skillicons.dev/icons?i=azure" width="33" height="33" />
   <img src="https://skillicons.dev/icons?i=gcp" width="33" height="33" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" width="33" height="33" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Cloud" width="33" height="33" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="33" height="33" />
   <img src="https://raw.githubusercontent.com/docker/compose/v2/logo.png" alt="Docker Compose" width="33" height="33" />
   <img src="https://skillicons.dev/icons?i=docker" width="33" height="33" />
   <img src="https://skillicons.dev/icons?i=kubernetes" width="33" height="33" />
