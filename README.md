@@ -20,10 +20,31 @@ Sou apaixonado por **DevOps** e gosto de entender como desenvolvimento, infraest
 ##  Ferramentas & Tecnologias
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,docker,kubernetes,nginx,jenkins,github,gitlab,git,terraform,mysql,postgres,mongodb,py,linux,react,prometheus,grafana,elasticsearch&perline=50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Cloud" width="48" height="48"/><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" alt="Helm" width="48" height="48"/><img src="https://raw.githubusercontent.com/docker/compose/v2/logo.png" alt="Docker Compose" width="48" height="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" alt="ArgoCD" width="48" height="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="48" height="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" alt="Red Hat" width="48" height="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=azure" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=gcp" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Cloud" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/docker/compose/v2/logo.png" alt="Docker Compose" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=terraform" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=py" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=prometheus" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=grafana" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=gitlab" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=jenkins" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" alt="Helm" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" alt="ArgoCD" width="40" height="40" />
 </p>
 
-> Tenho interesse em DevOps/SRE, Cloud Computing e Automação com IaC.
+> DevOps/SRE, Cloud Computing e Automação com IaC.
 
 ---
 
