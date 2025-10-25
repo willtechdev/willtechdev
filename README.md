@@ -25,7 +25,7 @@ Sou apaixonado por **DevOps** e gosto de entender como desenvolvimento, infraest
   <img src="https://skillicons.dev/icons?i=gcp" width="33" height="33" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Cloud" width="33" height="33" />
   <img src="https://skillicons.dev/icons?i=cloudflare" width="33" height="33" />
-  <img src="https://raw.githubusercontent.com/docker/compose/v2/logo.png" alt="Docker Compose" width="33" height="33" />
+  <img src="./assets/compose.png" alt="Docker Compose" width="33" height="33" />
   <img src="https://skillicons.dev/icons?i=docker" width="33" height="33" />
   <img src="https://skillicons.dev/icons?i=kubernetes" width="33" height="33" />
   <img src="https://skillicons.dev/icons?i=terraform" width="33" height="33" />
@@ -40,7 +40,7 @@ Sou apaixonado por **DevOps** e gosto de entender como desenvolvimento, infraest
   <img src="https://skillicons.dev/icons?i=gitlab" width="33" height="33" />
   <img src="https://skillicons.dev/icons?i=jenkins" width="33" height="33" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="33" height="33" />
-  <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/helm/icon/color/helm-icon-color.svg" alt="Helm" width="33" height="33" />
+  <img src="./assets/helm.svg" alt="Helm" width="33" height="33" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" alt="ArgoCD" width="33" height="33" />
 </p>
 
