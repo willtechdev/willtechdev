@@ -20,26 +20,26 @@ Sou apaixonado por **DevOps** e gosto de entender como desenvolvimento, infraest
 ##  Ferramentas & Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" width="33" height="33" />
-  <img src="https://skillicons.dev/icons?i=azure" width="33" height="33" />
-  <img src="https://skillicons.dev/icons?i=gcp" width="33" height="33" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Cloud" width="33" height="33" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" width="33" height="33" />
-  <img src="https://skillicons.dev/icons?i=docker" width="33" height="33" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="33" height="33" />
-  <img src="https://skillicons.dev/icons?i=terraform" width="33" height="33" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="33" height="33" />
-  <img src="https://skillicons.dev/icons?i=py" width="33" height="33" />
-  <img src="https://skillicons.dev/icons?i=linux" width="33" height="33" />
-  <img src="https://skillicons.dev/icons?i=prometheus" width="33" height="33" />
-  <img src="https://skillicons.dev/icons?i=grafana" width="33" height="33" />
-  <img src="https://skillicons.dev/icons?i=elasticsearch" width="33" height="33" />
-  <img src="https://skillicons.dev/icons?i=git" width="33" height="33" />
-  <img src="https://skillicons.dev/icons?i=github" width="33" height="33" />
-  <img src="https://skillicons.dev/icons?i=gitlab" width="33" height="33" />
-  <img src="https://skillicons.dev/icons?i=jenkins" width="33" height="33" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="33" height="33" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" alt="ArgoCD" width="33" height="33" />
+  <img src="https://skillicons.dev/icons?i=aws" width="35" height="35" />
+  <img src="https://skillicons.dev/icons?i=azure" width="35" height="35" />
+  <img src="https://skillicons.dev/icons?i=gcp" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Cloud" width="35" height="35" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" width="35" height="35" />
+  <img src="https://skillicons.dev/icons?i=docker" width="35" height="35" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="35" height="35" />
+  <img src="https://skillicons.dev/icons?i=terraform" width="35" height="35" />
+  <img src="https://skillicons.dev/icons?i=postgres" width="35" height="35" />
+  <img src="https://skillicons.dev/icons?i=py" width="35" height="35" />
+  <img src="https://skillicons.dev/icons?i=linux" width="35" height="35" />
+  <img src="https://skillicons.dev/icons?i=prometheus" width="35" height="35" />
+  <img src="https://skillicons.dev/icons?i=grafana" width="35" height="35" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" width="35" height="35" />
+  <img src="https://skillicons.dev/icons?i=git" width="35" height="35" />
+  <img src="https://skillicons.dev/icons?i=github" width="35" height="35" />
+  <img src="https://skillicons.dev/icons?i=gitlab" width="35" height="35" />
+  <img src="https://skillicons.dev/icons?i=jenkins" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" alt="ArgoCD" width="35" height="35" />
 </p>
 
 > DevOps/SRE, Cloud Computing e Automação com IaC.
@@ -50,7 +50,7 @@ Sou apaixonado por **DevOps** e gosto de entender como desenvolvimento, infraest
 
 <div align="center">
   <a href="https://www.credly.com/users/william-alves-coelho">
-    <img src="https://img.shields.io/badge/Credly-FF6B33?style=for-the-badge&logo=credly&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white"/>
   </a>
 </div>
 
