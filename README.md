@@ -14,6 +14,7 @@ Sou apaixonado por **DevOps** e gosto de entender como desenvolvimento, infraest
 
 - **🎯 Tecnólogo em Computação em Nuvem** – FIAP  
 - **🏆 Campeão Next 2024**
+- **🏆 Campeão Next 2025**
 
 ---
 
