@@ -12,9 +12,10 @@ Sou apaixonado por **DevOps** e gosto de entender como desenvolvimento, infraest
 
 ##  Formação Acadêmica
 
-- **🎯 Tecnólogo em Computação em Nuvem** – FIAP  
-- **🏆 Campeão Next 2024**
-- **🏆 Campeão Next 2025**
+- **🎯 Bachelor's in Cloud Computing** – FIAP  
+- **🏆 Next Champion 2024**
+- **🏆 Next Champion 2025**
+- **🤖 Postgraduate in AI for Developers** – FIAP *(in progress)*
 
 ---
 
