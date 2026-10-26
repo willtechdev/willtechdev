@@ -1,16 +1,16 @@
-# Olá, eu sou o Will!
+# Hello, I am Will!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Site+Reliability+Engineering;Cloud+Native+Enthusiast;Kubernetes+💙;Infrastructure+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Site+Reliability+Engineer;Kubernetes+💙;Infrastructure+as+Code;Platform+Engineer;AIOps+%26+Observability" alt="Typing SVG" />
 </div>
 
 ---
 
-Sou apaixonado por **DevOps** e gosto de entender como desenvolvimento, infraestrutura e automação se conectam para entregar soluções ágeis, seguras e escaláveis.
+DevOps and Site Reliability Engineer with expertise in multi-cloud environments. I work with containerization and orchestration using Docker and Kubernetes, infrastructure provisioning with Terraform, CI/CD pipelines and observability, as well as AIOps practices, applying artificial intelligence to improve the operation and reliability of systems.
 
 
 
-##  Formação Acadêmica
+##  Education
 
 - **🎯 Bachelor's in Cloud Computing** – FIAP  
 - **🏆 Next Champion 2024**
@@ -19,7 +19,7 @@ Sou apaixonado por **DevOps** e gosto de entender como desenvolvimento, infraest
 
 ---
 
-##  Ferramentas & Tecnologias
+##  Tools & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws" width="38" height="38" />
@@ -44,11 +44,11 @@ Sou apaixonado por **DevOps** e gosto de entender como desenvolvimento, infraest
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" alt="ArgoCD" width="38" height="38" />
 </p>
 
-> DevOps/SRE, Cloud Computing e Automação com IaC.
+> DevOps/SRE, Cloud Computing and Automation with IaC.
 
 ---
 
-##  Certificações
+##  Certifications
 
 <div align="center">
   <a href="https://www.credly.com/users/william-alves-coelho">
@@ -58,7 +58,7 @@ Sou apaixonado por **DevOps** e gosto de entender como desenvolvimento, infraest
 
 ---
 
-##  Vamos nos Conectar!
+##  Let's Connect!
 
 <div align="center">
   <a href="https://linkedin.com/in/williamalvescoelho">
