@@ -1,7 +1,7 @@
 # Olá, eu sou o Will!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Site+Reliability+Engineering;Cloud+Native+Enthusiast;Kubernetes+💙;Infrastructure+Automation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Site+Reliability+Engineer;Kubernetes+💙;Infrastructure+as+Code;Platform+Engineer;AIOps+%26+Observability" alt="Typing SVG" />
 </div>
 
 ---
