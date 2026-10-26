@@ -6,7 +6,7 @@
 
 ---
 
-Sou apaixonado por **DevOps** e gosto de entender como desenvolvimento, infraestrutura e automação se conectam para entregar soluções ágeis, seguras e escaláveis.
+DevOps and Site Reliability Engineer with expertise in multi-cloud environments. I work with containerization and orchestration using Docker and Kubernetes, infrastructure provisioning with Terraform, CI/CD pipelines and observability, as well as AIOps practices, applying artificial intelligence to improve the operation and reliability of systems.
 
 
 
