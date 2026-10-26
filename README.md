@@ -22,26 +22,26 @@ DevOps and Site Reliability Engineer with expertise in multi-cloud environments.
 ##  Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" width="38" height="38" />
-  <img src="https://skillicons.dev/icons?i=azure" width="38" height="38" />
-  <img src="https://skillicons.dev/icons?i=gcp" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Cloud" width="38" height="38" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" width="38" height="38" />
-  <img src="https://skillicons.dev/icons?i=docker" width="38" height="38" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" width="38" height="38" />
-  <img src="https://skillicons.dev/icons?i=terraform" width="38" height="38" />
-  <img src="https://skillicons.dev/icons?i=postgres" width="38" height="38" />
-  <img src="https://skillicons.dev/icons?i=py" width="38" height="38" />
-  <img src="https://skillicons.dev/icons?i=linux" width="38" height="38" />
-  <img src="https://skillicons.dev/icons?i=prometheus" width="38" height="38" />
-  <img src="https://skillicons.dev/icons?i=grafana" width="38" height="38" />
-  <img src="https://skillicons.dev/icons?i=elasticsearch" width="38" height="38" />
-  <img src="https://skillicons.dev/icons?i=git" width="38" height="38" />
-  <img src="https://skillicons.dev/icons?i=github" width="38" height="38" />
-  <img src="https://skillicons.dev/icons?i=gitlab" width="38" height="38" />
-  <img src="https://skillicons.dev/icons?i=jenkins" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="38" height="38" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" alt="ArgoCD" width="38" height="38" />
+  <img src="assets/icons/aws.svg" alt="AWS" title="AWS" width="38" height="38" />
+  <img src="assets/icons/azure.svg" alt="Azure" title="Azure" width="38" height="38" />
+  <img src="assets/icons/gcp.svg" alt="Google Cloud" title="Google Cloud" width="38" height="38" />
+  <img src="assets/icons/oracle.svg" alt="Oracle Cloud" title="Oracle Cloud" width="38" height="38" />
+  <img src="assets/icons/cloudflare.svg" alt="Cloudflare" title="Cloudflare" width="38" height="38" />
+  <img src="assets/icons/docker.svg" alt="Docker" title="Docker" width="38" height="38" />
+  <img src="assets/icons/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="38" height="38" />
+  <img src="assets/icons/terraform.svg" alt="Terraform" title="Terraform" width="38" height="38" />
+  <img src="assets/icons/postgres.svg" alt="PostgreSQL" title="PostgreSQL" width="38" height="38" />
+  <img src="assets/icons/python.svg" alt="Python" title="Python" width="38" height="38" />
+  <img src="assets/icons/linux.svg" alt="Linux" title="Linux" width="38" height="38" />
+  <img src="assets/icons/prometheus.svg" alt="Prometheus" title="Prometheus" width="38" height="38" />
+  <img src="assets/icons/grafana.svg" alt="Grafana" title="Grafana" width="38" height="38" />
+  <img src="assets/icons/elasticsearch.svg" alt="Elasticsearch" title="Elasticsearch" width="38" height="38" />
+  <img src="assets/icons/git.svg" alt="Git" title="Git" width="38" height="38" />
+  <img src="assets/icons/github.svg" alt="GitHub" title="GitHub" width="38" height="38" />
+  <img src="assets/icons/gitlab.svg" alt="GitLab" title="GitLab" width="38" height="38" />
+  <img src="assets/icons/jenkins.svg" alt="Jenkins" title="Jenkins" width="38" height="38" />
+  <img src="assets/icons/azuredevops.svg" alt="Azure DevOps" title="Azure DevOps" width="38" height="38" />
+  <img src="assets/icons/argocd.svg" alt="ArgoCD" title="ArgoCD" width="38" height="38" />
 </p>
 
 > DevOps/SRE, Cloud Computing and Automation with IaC.
