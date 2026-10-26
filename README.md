@@ -10,7 +10,7 @@ DevOps and Site Reliability Engineer with expertise in multi-cloud environments.
 
 
 
-##  Formação Acadêmica
+##  Education
 
 - **🎯 Bachelor's in Cloud Computing** – FIAP  
 - **🏆 Next Champion 2024**
@@ -19,7 +19,7 @@ DevOps and Site Reliability Engineer with expertise in multi-cloud environments.
 
 ---
 
-##  Ferramentas & Tecnologias
+##  Tools & Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws" width="38" height="38" />
@@ -44,11 +44,11 @@ DevOps and Site Reliability Engineer with expertise in multi-cloud environments.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" alt="ArgoCD" width="38" height="38" />
 </p>
 
-> DevOps/SRE, Cloud Computing e Automação com IaC.
+> DevOps/SRE, Cloud Computing and Automation with IaC.
 
 ---
 
-##  Certificações
+##  Certifications
 
 <div align="center">
   <a href="https://www.credly.com/users/william-alves-coelho">
@@ -58,7 +58,7 @@ DevOps and Site Reliability Engineer with expertise in multi-cloud environments.
 
 ---
 
-##  Vamos nos Conectar!
+##  Let's Connect!
 
 <div align="center">
   <a href="https://linkedin.com/in/williamalvescoelho">
