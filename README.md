@@ -42,6 +42,27 @@ DevOps and Site Reliability Engineer with expertise in multi-cloud environments.
   <img src="assets/icons/jenkins.svg" alt="Jenkins" title="Jenkins" width="38" height="38" />
   <img src="assets/icons/azuredevops.svg" alt="Azure DevOps" title="Azure DevOps" width="38" height="38" />
   <img src="assets/icons/argocd.svg" alt="ArgoCD" title="ArgoCD" width="38" height="38" />
+  <br />
+  <img src="assets/icons/redhat.svg" alt="Red Hat" title="Red Hat" width="38" height="38" />
+  <img src="assets/icons/proxmox.svg" alt="Proxmox" title="Proxmox" width="38" height="38" />
+  <img src="assets/icons/fortinet.svg" alt="Fortinet" title="Fortinet" width="38" height="38" />
+  <img src="assets/icons/nginx.svg" alt="NGINX" title="NGINX" width="38" height="38" />
+  <img src="assets/icons/traefik.svg" alt="Traefik" title="Traefik" width="38" height="38" />
+  <img src="assets/icons/rancher.svg" alt="Rancher" title="Rancher" width="38" height="38" />
+  <img src="assets/icons/helm.svg" alt="Helm" title="Helm" width="38" height="38" />
+  <img src="assets/icons/ansible.svg" alt="Ansible" title="Ansible" width="38" height="38" />
+  <img src="assets/icons/redis.svg" alt="Redis" title="Redis" width="38" height="38" />
+  <img src="assets/icons/rabbitmq.svg" alt="RabbitMQ" title="RabbitMQ" width="38" height="38" />
+  <img src="assets/icons/go.svg" alt="Go" title="Go" width="38" height="38" />
+  <img src="assets/icons/bash.svg" alt="Bash" title="Bash" width="38" height="38" />
+  <img src="assets/icons/fastapi.svg" alt="FastAPI" title="FastAPI" width="38" height="38" />
+  <img src="assets/icons/opentelemetry.svg" alt="OpenTelemetry" title="OpenTelemetry" width="38" height="38" />
+  <img src="assets/icons/zabbix.svg" alt="Zabbix" title="Zabbix" width="38" height="38" />
+  <img src="assets/icons/trivy.svg" alt="Trivy" title="Trivy" width="38" height="38" />
+  <img src="assets/icons/sonarqube.svg" alt="SonarQube" title="SonarQube" width="38" height="38" />
+  <img src="assets/icons/githubactions.svg" alt="GitHub Actions" title="GitHub Actions" width="38" height="38" />
+  <img src="assets/icons/claude.svg" alt="Claude Code" title="Claude Code" width="38" height="38" />
+  <img src="assets/icons/mcp.svg" alt="MCP" title="MCP" width="38" height="38" />
 </p>
 
 > DevOps/SRE, Cloud Computing and Automation with IaC.
